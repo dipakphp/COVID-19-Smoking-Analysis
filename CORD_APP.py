@@ -1,4 +1,5 @@
 """
+This code is suitable for the local system or PC
 # Core dependencies
 pip install streamlit==1.33.0 transformers==4.39.3 torch==2.2.1 sentence-transformers==2.5.1 pandas==2.2.1 kagglehub==0.1.5 tqdm==4.66.2 
 
